@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+  justify-self: center;
+  justify-items: center;
+}
+
+canvas {
+  /* margin-top: 100px;
+  margin-left: 25%;
+  margin-right: 25%; */
+  display: block;
+  border: 2px solid rgb(22, 12, 17)
+}
+
+h2{
+  text-align: center;
+}
