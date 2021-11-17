@@ -19,7 +19,7 @@ class Form {
 
     //ajeita posição dos elementos html
     this.input.position(displayWidth/2-80, displayHeight/2-120);//novo
-    this.button.position(displayWidth/2-20, displayHeight/2-50);//novo
+    //this.button.position(displayWidth/2-20, displayHeight/2-50);//novo
 
     //quando clicar no botão
     this.button.mousePressed(() => {
